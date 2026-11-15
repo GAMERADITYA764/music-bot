@@ -1,4 +1,4 @@
-# Vector Nodes Music — Python panel version
+# Vector Nodes Music 
 
 ## Hosting panel setup
 Upload these files to the root of your bot server. Select a Python 3.10–3.12 egg (3.12 recommended). Set the panel's startup command to `python bot.py`, or use the egg's standard Python startup setting. Configure the panel to install dependencies from `requirements.txt`, or run:
